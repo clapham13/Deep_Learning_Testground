@@ -1,3 +1,3 @@
-This is a repository of the exercises for Andrew Ng's Deep Learning course on Coursera. It provides an excellent introduction to the main concepts of Deep Learning, implimenting the algorithms first in Numpy (to garner understanding), and then using TensorFlow (assuming such a framework will be the most common usage).
+This is a repository of the exercises for Andrew Ng's Deep Learning course on Coursera. It provides an excellent introduction to the main concepts of Deep Learning, implimenting the algorithms first in Numpy (to garner understanding), and then using TensorFlow & Keras (assuming such frameworks will be the most common usage in practice).
 
 The course is divided into 5 parts; a seperate notebook has been made for each (Part 3 does not have any coding exercises, and is thus excluded).
